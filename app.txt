@@ -3,3 +3,5 @@ Version 1.0
 Check Update Feature
 
 Add Timezone
+
+Add Auth
